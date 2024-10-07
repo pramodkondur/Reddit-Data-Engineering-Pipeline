@@ -51,8 +51,6 @@ You can access the Airflow web interface at `http://localhost:8080`.
 ### 4. Create the Reddit ETL Pipeline
 Next, write the ETL pipeline to fetch data from the Reddit API. This involves setting up a Directed Acyclic Graph (DAG) in Airflow for the Reddit extraction.
 
-For example, you can set up your Reddit DAG as follows:
-
 ### 5. Store Data Locally
 After extracting the data, you can save it locally in CSV format.
 
